@@ -1,0 +1,2 @@
+# Requires: virtual-maybe
+# (Not available on PyPI)
